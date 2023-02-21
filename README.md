@@ -1,5 +1,10 @@
 # syntaks
 
+* [About](#about)
+* [Art](#art)
+* [Writing](#writing)
+
+
 ## About
 
 I make art using code[^1]. Most works are created using JavaScript and [p5.js](https://p5js.org). Also, see my [introductory Twitter thread](https://twitter.com/syntaks_art/status/1627021587277832192).
