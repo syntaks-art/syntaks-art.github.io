@@ -27,6 +27,8 @@ To get in touch, DM [me on Twitter](http://twitter.com/syntaks_art).
 
 <a title="Unremarkable boxes. Are they meaningful to you, anon?" href="https://user-images.githubusercontent.com/125825267/220127534-8c00faae-c651-4558-a02f-6b517e8fa7c5.png"><img src="https://user-images.githubusercontent.com/125825267/220127534-8c00faae-c651-4558-a02f-6b517e8fa7c5.png" width="500"></a>
 
+<a title="Unremarkable boxes. Are they meaningful to you, anon?" href="https://user-images.githubusercontent.com/125825267/221440660-1e0c7322-3705-405e-b7b4-42f317232569.png"><img src="https://user-images.githubusercontent.com/125825267/221440660-1e0c7322-3705-405e-b7b4-42f317232569.png" width="450"></a>
+
 ## Writing
 
 ### Twitter threads
