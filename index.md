@@ -4,7 +4,6 @@
 * [Art](#art)
 * [Writing](#writing)
 
-
 ## About
 
 I make art using code[^1]. Most works are created using JavaScript and [p5.js](https://p5js.org). Also, see my [introductory Twitter thread](https://twitter.com/syntaks_art/status/1627021587277832192).
@@ -17,17 +16,13 @@ To get in touch, DM [me on Twitter](http://twitter.com/syntaks_art).
 
 ### Sketches
 
-<a title="Unremarkable boxes. Are they meaningful to you, anon?" href="https://user-images.githubusercontent.com/125825267/220120250-1b528e40-a6dc-4202-8b5d-ead67882dc03.png"><img src="https://user-images.githubusercontent.com/125825267/220120250-1b528e40-a6dc-4202-8b5d-ead67882dc03.png" width="500"></a>
+<a title="Unremarkable boxes. Are they meaningful to you, anon?" href="sketch1.png"><img src="sketch1.png" width="500"></a>
+<a title="Unremarkable boxes" href="sketch2.png"><img src="sketch2.png" width="500"></a>
+<a title="Unremarkable boxes" href="sketch3.png"><img src="sketch3.png" width="500"></a>
+<a title="Unremarkable boxes" href="sketch4.png"><img src="sketch4.png" width="500"></a>
+<a title="Unremarkable boxes. Are they meaningful to you, anon?" href="sketch5.png"><img src="sketch5.png" width="500"></a>
 
-<a title="Unremarkable boxes" href="https://user-images.githubusercontent.com/125825267/220126374-efab41b0-3970-4ff5-922c-8cb5396701b4.png"><img src="https://user-images.githubusercontent.com/125825267/220126374-efab41b0-3970-4ff5-922c-8cb5396701b4.png" width="500"></a>
-
-<a title="Unremarkable boxes" href="https://user-images.githubusercontent.com/125825267/220127300-1808e5cd-4352-4e3b-8a17-ba2710602202.png"><img src="https://user-images.githubusercontent.com/125825267/220127300-1808e5cd-4352-4e3b-8a17-ba2710602202.png" width="500"></a>
-
-<a title="Unremarkable boxes" href="https://user-images.githubusercontent.com/125825267/220126563-12aad9b1-8d0c-49a4-8937-9ca5fbde1a72.png"><img src="https://user-images.githubusercontent.com/125825267/220126563-12aad9b1-8d0c-49a4-8937-9ca5fbde1a72.png" width="500"></a>
-
-<a title="Unremarkable boxes. Are they meaningful to you, anon?" href="https://user-images.githubusercontent.com/125825267/220127534-8c00faae-c651-4558-a02f-6b517e8fa7c5.png"><img src="https://user-images.githubusercontent.com/125825267/220127534-8c00faae-c651-4558-a02f-6b517e8fa7c5.png" width="500"></a>
-
-<a title="Unremarkable boxes. Are they meaningful to you, anon?" href="https://user-images.githubusercontent.com/125825267/221440660-1e0c7322-3705-405e-b7b4-42f317232569.png"><img src="https://user-images.githubusercontent.com/125825267/221440660-1e0c7322-3705-405e-b7b4-42f317232569.png" width="450"></a>
+<a title="Unremarkable boxes. Are they meaningful to you, anon?" href="sketch6.png"><img src="sketch6.png" width="450"></a>
 
 ## Writing
 
@@ -63,9 +58,9 @@ function drawPoints() {
 
 This renders:
 
-![Points on a circle's circumference](points.png)
+<a title="Points on a circle's circumference" href="ic1.png"><img src="ic1.png" width="300"></a>
 
-The basic idea is to divide one revolution (2π radians) into a fixed number of steps and draw one point per step. Here, each step is `2 * PI / numVertices` radians. We can use trigonometry (see [“Sine and cosine” on Wikipedia](https://en.wikipedia.org/wiki/Sine_and_cosine)) to determine the corresponding points on the circumference.
+The basic idea is to divide one revolution (2π radians) into a fixed number of steps and draw one point per step. Here, each step is `2 * PI / numVertices` radians. We can use trigonometry (see ["Sine and cosine" on Wikipedia](https://en.wikipedia.org/wiki/Sine_and_cosine)) to determine the corresponding points on the circumference.
 
 We don’t actually want to render these points, but we can use them as vertices in a shape. `curveVertex` helps us draw smooth curves between points:
 
@@ -82,7 +77,7 @@ function drawShape() {
 }
 ```
 
-![Open shape](open_shape.png)
+<a title="Open shape" href="ic2.png"><img src="ic2.png" width="300"></a>
 
 That's not quite what we wanted though. From `drawPoints` above, we know the points are placed properly. But we also know they don’t form a closed loop as we didn’t include the first point twice. Further, per `curveVertex`’s [documentation](https://p5js.org/reference/#/p5/curveVertex):
 
@@ -114,8 +109,10 @@ function drawShape(noise = .1) {
 }
 ```
 
-![Imperfect circle](imperfect_circle.png)
+<a title="Imperfect circle" href="ic3.png"><img src="ic3.png" width="300"></a>
 
 And that’s it! Below follow a few simple sketches created using this algorithm.
 
-![Sketches using imperfect circles](imperfect_circle_sketches.png)
+<a title="Sketch using imperfect circle" href="ic4.png"><img src="ic4.png" width="300"></a>
+<a title="Sketch using imperfect circle" href="ic5.png"><img src="ic5.png" width="300"></a>
+<a title="Sketch using imperfect circle" href="ic6.png"><img src="ic6.png" width="300"></a>
