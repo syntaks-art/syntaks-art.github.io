@@ -43,7 +43,7 @@ circle(x, y, diameter);
 
 On the other hand, it’s difficult to draw an imperfect circle. Here, we’ll show how it can be done.
 
-First, let’s see how we can draw points (represented by hollow circles) on a circle’s circumference:
+First, let’s see how we can draw points on a circle’s circumference:
 
 ```javascript
 function drawPoints() {
