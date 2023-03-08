@@ -86,7 +86,7 @@ That's not quite what we wanted though. From `drawPoints` above, we know the poi
 This means our first and last points also need points to guide them. That is, we can draw the (closed) circle by duplicating a total three of the existing points. Lastly, we create the imperfection by randomly offsetting each point:
 
 ```javascript
-function drawShape(noise = .1) {
+function drawImperfectCircle(noise = .1) {
   let vertices = [];
   for (let i = 0; i < numVertices; i++) {
     const rad = i * 2 * PI / numVertices;
