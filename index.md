@@ -30,10 +30,13 @@ To get in touch, DM [me on Twitter](http://twitter.com/syntaks_art).
 
 * [Self introduction](https://twitter.com/syntaks_art/status/1627021587277832192)
 * [Summary of Ben Kovach's essay "WHAT MAKES GENERATIVE ART HARD?"](https://twitter.com/syntaks_art/status/1627831260578971649)
+* [p5.js guide for drawing imperfect circles](https://twitter.com/syntaks_art/status/1633627701910073344) (full version [below](#imperfect-circles))
 
 ### p5.js guides
 
 #### Imperfect circles
+
+*(Corresponding Twitter thread linked [above](#twitter-threads))*
 
 Unlike using pen and paper, it’s trivial to draw a perfect circle using common code libraries. In p5.js, you’d do:
 
