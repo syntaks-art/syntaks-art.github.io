@@ -21,8 +21,10 @@ To get in touch, DM [me on Twitter](http://twitter.com/syntaks_art).
 <a title="Unremarkable boxes" href="sketch3.png"><img src="sketch3.png" width="500"></a>
 <a title="Unremarkable boxes" href="sketch4.png"><img src="sketch4.png" width="500"></a>
 <a title="Unremarkable boxes. Are they meaningful to you, anon?" href="sketch5.png"><img src="sketch5.png" width="500"></a>
-
 <a title="Unremarkable boxes. Are they meaningful to you, anon?" href="sketch6.png"><img src="sketch6.png" width="450"></a>
+<a title="Unremarkable boxes" href="sketch7.png"><img src="sketch7.png" width="450"></a>
+<a title="Unremarkable boxes" href="sketch8.png"><img src="sketch8.png" width="450"></a>
+<a title="Unremarkable boxes" href="sketch9.png"><img src="sketch9.png" width="450"></a>
 
 ## Writing
 
