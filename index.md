@@ -34,6 +34,8 @@ To get in touch, DM [me on Twitter](http://twitter.com/syntaks_art).
 
 <a title="Unremarkable boxes" href="sketch9.png"><img src="sketch9.png" width="450"></a>
 
+<a title="Unremarkable boxes" href="sketch10.png"><img src="sketch10.png" width="450"></a>
+
 ## Writing
 
 ### Twitter threads
