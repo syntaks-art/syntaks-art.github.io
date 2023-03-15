@@ -42,7 +42,7 @@ To get in touch, DM [me on Twitter](http://twitter.com/syntaks_art).
 
 * [Self introduction](https://twitter.com/syntaks_art/status/1627021587277832192)
 * [Summary of Ben Kovach's essay "WHAT MAKES GENERATIVE ART HARD?"](https://twitter.com/syntaks_art/status/1627831260578971649)
-* [Drawing imperfect circles (p5.js)](https://twitter.com/syntaks_art/status/1633627701910073344) (full version [below](#imperfect-circles))
+* [Drawing imperfect circles (p5.js)](https://twitter.com/syntaks_art/status/1633627701910073344) (full version [below](#drawing-imperfect-circles-p5js))
 
 ### Articles
 
